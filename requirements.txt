@@ -1,0 +1,13 @@
+numpy
+matplotlib
+plotly
+pandas
+pillow
+streamlit
+flask
+pyqt6
+dputils
+opencv-contrib-python
+openpyxl
+nbformat
+statsmodels
